@@ -10,7 +10,7 @@ namespace tutorials
     {
         public static void Main(String[] args)
         {
-            Console.WriteLine("");
+            Console.WriteLine("Hello World");
         }
     }
 }
